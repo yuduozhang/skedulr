@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/cs349_w12/!svn/ver/3556/y367zhang/a02/skedulr
+END
+LoginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/LoginView.java
+END
+CourseModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/CourseModel.java
+END
+IView.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/IView.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs349_w12/!svn/ver/1913/y367zhang/a02/skedulr/Account.java
+END
+RegisteredCourseModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/RegisteredCourseModel.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cs349_w12/!svn/ver/1913/y367zhang/a02/skedulr/HttpUtil.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs349_w12/!svn/ver/1913/y367zhang/a02/skedulr/Section.java
+END
+SkedulrModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/SkedulrModel.java
+END
+SectionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/SectionModel.java
+END
+SelectCoursesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/SelectCoursesView.java
+END
+MainMenuView.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/MainMenuView.java
+END
+AccountModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/AccountModel.java
+END
+Course.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs349_w12/!svn/ver/1913/y367zhang/a02/skedulr/Course.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cs349_w12/!svn/ver/3502/y367zhang/a02/skedulr/Main.java
+END
+CreateAccountView.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cs349_w12/!svn/ver/3556/y367zhang/a02/skedulr/CreateAccountView.java
+END
+MyCoursesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cs349_w12/!svn/ver/3509/y367zhang/a02/skedulr/MyCoursesView.java
+END
