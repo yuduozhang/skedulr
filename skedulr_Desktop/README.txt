@@ -1,13 +1,10 @@
-UserID:	    y367zhang
-StudentID:  20358891
-Name:	    Yuduo Zhang 	
 
 Test on the VIRTUAL MACHINE.
 Please run by ./Makefile
 If you get permission error, please chmod u+x Makefile.
 If the program doesn't run, please try again. I tested it on my virtual machine, it works.
 
-Describe your enhancements:
+Enhancements:
 1. Error handling in creating account and login page. Print appropriate
 messages to remind users to input correct information.
 
