@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="app_name">y367zhang\'s Skedulr</string>
+    <string name="login">Skedulr Login</string>
+    <string name="createAccount">Skedulr Create Account</string>
+    <string name="classSchedule">Skedulr Class Schedule</string>
+    <string name="coursePicker">Skedulr Course Picker</string>
+    
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="newAccountButton">New Account</string>
+    <string name="createAccountButton">Create Account</string>
+    <string name="addCourseButton">Add</string>
+    <string name="saveCourseButton">Save</string>
+    <string name="removeCourseButton">Remove</string>
+    <string name="seeScheduleButton">See Schedule</string>
+
+    
+    <string name="givenNames">Given Names</string>
+    <string name="surname">Surname</string>
+    <string name="repeatPassword">Confirm Password</string>
+    
+    
+    <string name="loginError"></string>
+    <string name="invalidLoginError">
+        Invalid username or password.
+    </string>
+    <string name="usernameMissingLoginError">
+        Please enter your username.
+    </string>
+    <string name="passwordMissingLoginError">
+        Please enter your password.
+    </string>
+    <string name="networkError">
+        Network Error.
+    </string>
+    
+    <string name="createAccountError"></string>
+    <string name="confirmPasswordCreateAccountError">
+        Password does not match the confirm password.
+    </string>
+    <string name="shortPasswordError">
+        Password must be at least four characters long.
+    </string>
+    <string name="shortUsernameError">
+        Username must be at least four characters long.
+    </string>
+    <string name="emptyGivennamesError">
+        Please enter your given names.
+    </string>
+    <string name="emptySurnameError">
+        Please enter your surname.
+    </string>
+    <string name="emptyRegisterInfoError">
+        Please enter your registration information.
+    </string>
+    <string name="duplicatedAccountError">
+        Sorry, this username has been used. Please select another one.
+    </string>
+    <string name="invalidPersonalInfoError">
+        Invalid Personal Information.
+    </string>
+     <string name="maximumCoursesError">
+        You already have five courses. Do you want to delete some?
+    </string>
+    <string name="OK">
+       OK
+    </string>
+    <string name="turnOnWifi">
+       Turn on Wifi
+    </string> 
+    <string name="Exit">
+       Cancel
+    </string>
+    
+    <string name="No">
+       No
+    </string>
+    <string name="Yes">
+       Yes
+    </string>
+    <string name="Cancel">
+       Cancel
+    </string>
+    <string name="Logout">
+       Would you like to logout?
+    </string>
+    <string name="LogoutBack">
+       Are you sure you want to exit?
+    </string>
+     <string name="saveDone">
+       Saved successfully!
+    </string>
+     <string name="accountCreated">
+       Account created successfully!
+    </string>
+     <string name="loginChoice">
+       Do you want to go back to login screen?
+    </string>
+    <string name="createMoreAccounts">
+       Create another account
+    </string>
+    <string name="saveCourse">
+       Your class schedule is changed. Do you want to save before logout?
+    </string>
+    <string name="saveCourseBack">
+       Your class schedule is changed. Do you want to save before exit?
+    </string>
+    
+    <string name="timeConflicts">
+       Time conflicts with
+    </string>
+     <string name="swap">
+       Do you want to swap them?
+    </string>
+    
+    
+    
+    <string name="section">Sec</string>
+    <string name="component">Type</string>
+    <string name="dayTime">Time</string>
+    <string name="room">Room</string>
+    
+</resources>
