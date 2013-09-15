@@ -1,13 +1,8 @@
-======================================================================
-UserID:	    y367zhang
-StudentID:  20358891
-Name:	    Yuduo Zhang 	
-======================================================================
 
+======================================================================
 To get best experience from this app, please test on the phone.
 The filter function of the course picker screen cannot work on emulator 
-properly due to the slow computing speed. I tested my app on a HTC 
-reserved from DC, everything including the filter just works greatly!
+properly due to the slow computing speed. 
 
 ======================================================================
 Design Philosophy: Simplicity
@@ -26,7 +21,6 @@ errors)
 3. Loading course list while logging in will take some time, please be
 patient. (If Android alert dialog pops up, please press "Wait" button)
 
-My tester:  Hao Chen, 20329692, h84chen@uwaterloo.ca
 
 ======================================================================
 Most important extension:
