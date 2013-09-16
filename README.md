@@ -3,7 +3,7 @@ skedulr
 
 An online course schedule system with features of displaying, enrolling and dropping courses.
 It can detect time conflicts, and it also sets a maximum number of enrolment courses.
-Desktop version is developed in Java Swing, and mobile version is in Android.
+Desktop version is developed with Java Swing, and mobile version is in Android.
 
 
 Screenshots:
